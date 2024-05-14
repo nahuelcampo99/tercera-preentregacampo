@@ -1,0 +1,63 @@
+/*fondo*/
+body{
+    background-image:url(../assets/background.jpg) ;
+}
+section{
+    padding-top: 25px;
+}
+section div{
+    padding-bottom: 10px;
+}
+.navbar-logo img{width: 100px;
+    border-radius: 150px;
+
+}
+
+section div div a{
+    align-items: center;
+}
+
+main a p{
+    background-color: cyan;
+    color: darkblue;
+    font: x-large;
+    padding: 2px;
+    border-radius: 5px;
+    font-weight: 200;
+    text-decoration: underline;
+    font-style: normal;
+    font-weight: bolder;
+    width: 200px;
+    text-align: center;
+}
+main div  a p{
+    background-color: aquamarine;
+    width: 1000px;
+}
+
+main h2{
+    background-color: aquamarine;
+    width: 1000px;
+    text-align: center;
+}
+main a img{
+    width: 10%;
+    height: 10%;
+align-items: center; }
+
+
+footer{
+    background-color: aqua;
+    border-style: solid;
+    border-color: darkcyan;
+    width: 100%;
+}
+footer p{
+    background-color: aqua;
+    color: darkblue;
+    font-style: normal;
+}
+footer ul{
+    list-style: none;
+}
+/*fondo*/
