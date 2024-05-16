@@ -1,0 +1,17 @@
+//fondo//
+$fondo:url(../assets/background.jpg);
+//fondo//
+body{
+    background-image: $fondo;
+}
+main{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    section{
+        padding-top: 25px;
+        div{
+            padding: 2px;
+        }
+        
+}
+}

@@ -1,0 +1,24 @@
+//paleta de colores//
+$color1:rgba(24, 27, 27, 0.979);
+$color2:rgb(58, 58, 58);
+$color3:rgb(250, 250, 250);
+//paleta de colores//
+//fuentes//
+$fuente1:italic;
+//fuentes//
+//listas//
+$estilolista:none;
+//listas//
+
+footer{background-color: $color1;
+border-color: $color2;
+width: 100%;
+border-style: solid;
+ul { background-color: $color1;
+    list-style:$estilolista;
+p {
+    background-color: $color1;
+    color: $color3;
+    font-style: $fuente1;
+    
+}}}

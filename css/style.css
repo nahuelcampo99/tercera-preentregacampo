@@ -1,63 +1,35 @@
-/*fondo*/
-body{
-    background-image:url(../assets/background.jpg) ;
+footer {
+  background-color: rgba(24, 27, 27, 0.979);
+  border-color: rgb(58, 58, 58);
+  width: 100%;
+  border-style: solid;
 }
-section{
-    padding-top: 25px;
+footer ul {
+  background-color: rgba(24, 27, 27, 0.979);
+  list-style: none;
 }
-section div{
-    padding-bottom: 10px;
-}
-.navbar-logo img{width: 100px;
-    border-radius: 150px;
-
-}
-
-section div div a{
-    align-items: center;
+footer ul p {
+  background-color: rgba(24, 27, 27, 0.979);
+  color: rgb(250, 250, 250);
+  font-style: italic;
 }
 
-main a p{
-    background-color: cyan;
-    color: darkblue;
-    font: x-large;
-    padding: 2px;
-    border-radius: 5px;
-    font-weight: 200;
-    text-decoration: underline;
-    font-style: normal;
-    font-weight: bolder;
-    width: 200px;
-    text-align: center;
-}
-main div  a p{
-    background-color: aquamarine;
-    width: 1000px;
+nav div a img {
+  width: 50%;
+  border-radius: 100%;
 }
 
-main h2{
-    background-color: aquamarine;
-    width: 1000px;
-    text-align: center;
+body {
+  background-image: url(../assets/background.jpg);
 }
-main a img{
-    width: 10%;
-    height: 10%;
-align-items: center; }
 
-
-footer{
-    background-color: aqua;
-    border-style: solid;
-    border-color: darkcyan;
-    width: 100%;
+main {
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
-footer p{
-    background-color: aqua;
-    color: darkblue;
-    font-style: normal;
+main section {
+  padding-top: 25px;
 }
-footer ul{
-    list-style: none;
-}
-/*fondo*/
+main section div {
+  padding: 2px;
+}/*# sourceMappingURL=style.css.map */

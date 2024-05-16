@@ -1,0 +1,15 @@
+//proporciones de logo//
+$width: 50%;
+$border-radius: 100%;
+//proporciones de logo//
+
+nav{
+    div{
+        a{
+            img{
+                width: $width;
+                border-radius: $border-radius;
+            }
+        }
+    }
+}
