@@ -32,4 +32,12 @@ main section {
 }
 main section div {
   padding: 2px;
+}
+
+.imagenmenu {
+  height: 220px;
+}
+
+.imagenmenu:hover {
+  transform: scale(2);
 }/*# sourceMappingURL=style.css.map */
