@@ -1,0 +1,6 @@
+seo:
+se agrego las metaetiquetas description y keywords a todos los html
+agregando una breve descripcion para cada html y agregaron palabras clave para cada html.
+
+se agreo animacion scale a las cuatro imagenes del menu principal.
+se convirtio la mayoria de imagenes a jpg y se las comprimio  siendo su formato original de algunas png y otras del formato para google.
